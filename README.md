@@ -3,6 +3,8 @@
 
 # Model Analysis Report
 
+##By:Sachin Sushil Singh Roll no: 102103575
+
 ## Executive Summary
 
 This document presents a comprehensive analysis of five pre-trained models for generating summarized text using text prompts related to specific topics. The models considered are as follows:
